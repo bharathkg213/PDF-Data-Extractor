@@ -26,9 +26,6 @@ pdf_extractor_app/
 │   ├── config.py           # Configurable fields
 │── models/
 │   ├── database.py         # SQLite/SQLAlchemy 
-│   ├── schemas.py          # Data schema (Pydantic/ORM) (optional)
-│── tests/
-│   ├── test_extraction.py  # Unit tests (optional)
 │── requirements.txt
 │── README.md
 ```
@@ -39,8 +36,8 @@ pdf_extractor_app/
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/dbhayani01/pdf-claim-extractor.git
-cd pdf-claim-extractor
+git clone https://github.com/bharathkg213/PDF-Data-ExtractorPDF-Data-Extractor.git
+cd PDF-Data-ExtractorPDF-Data-Extractor
 ```
 
 ### 2️⃣ Create virtual environment (recommended)
