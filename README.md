@@ -90,7 +90,7 @@ Claim Type: Accident Claim
 ```
 
 **UI Screenshot:**  
-![App Screenshot] (Streamlit_Image.png)
+![App Screenshot] ([Streamlit_Image.png](https://github.com/bharathkg213/PDF-Data-Extractor/blob/main/Streamlit_Image.png))
 
 ---
 
