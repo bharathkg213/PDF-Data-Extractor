@@ -90,7 +90,7 @@ Claim Type: Accident Claim
 ```
 
 **UI Screenshot:**  
-*(Add a screenshot of Streamlit app here)*  
+![App Screenshot] (Streamlit_Image.png)
 
 ---
 
